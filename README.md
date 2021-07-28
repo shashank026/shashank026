@@ -1,4 +1,3 @@
-![Untitled design](https://user-images.githubusercontent.com/71897053/127277568-07be33bd-abaa-4165-b98b-e574933ccdc2.gif)
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
