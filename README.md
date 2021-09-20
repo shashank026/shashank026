@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank026&label=Profile%20views&color=0e75b6&style=flat" alt="shashank026" /> </p>
 
 
-<img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/shashank026/Image/main/Git%20profile%20image.webp?token=ARFY444N3BPY6SXDQRB37W3BDNHIK" />
+<img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/shashank026/Image/main/Git%20profile%20image.webp?token=ARFY44Y75DWHO3JGYJ34DMDBKH22O />
 
 - 🌱 I’m currently learning **Machine Learning Framework**
 
